@@ -1,1 +1,1 @@
-# djnago_stock_tracker
+# django_stock_tracker
